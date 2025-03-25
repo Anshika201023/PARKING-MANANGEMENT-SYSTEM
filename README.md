@@ -18,3 +18,21 @@ Following are the functioning of the system:
 5) After the time has reached 0 min, a notification will pop up asking the user to remove the car otherwise will have to pay the fine. If not removed at 0 min then the time will reach in minus indicating overstaying.
 6) When removed after overstaying, a notification will pop up that you have a fine to pay, the user will click ok and then the immediate next notification will show the fine calculated that they have to pay. When clicked ok then then the fine has paid and the spot will be vacanted again.
 7) Simultaneously, the time will be calculated for different slots who are reserved.
+
+
+PREVIEW OF THE PARKING MANAGEMENT SYSTEM:
+![image](https://github.com/user-attachments/assets/133aed5e-0d6b-451d-a609-2a230b62eea6)    ![image](https://github.com/user-attachments/assets/0f9f6de7-a6fa-487c-a555-450bd89245f4)
+
+The car is entered and time duration:     ![image](https://github.com/user-attachments/assets/290570b9-a275-4c1e-82c5-9102ce9a654d)
+
+The timer has started:   ![image](https://github.com/user-attachments/assets/18ddddf8-ed67-4c54-bd09-c8e84bcb2f03)
+
+All the slots are filled:   ![Screenshot 2025-03-26 015246](https://github.com/user-attachments/assets/62ef96c4-174e-49ec-bcf5-34c1db9ab468)   
+
+When at 0 min notification will pop up:    ![Screenshot 2025-03-26 015341](https://github.com/user-attachments/assets/6a1153fb-98d1-418a-a101-91ee2c516ea7)
+
+When overstayed fine notification is showed:     ![Screenshot 2025-03-26 015403](https://github.com/user-attachments/assets/efc73afb-d07e-4334-b5da-126d4d397df5)
+
+
+
+
